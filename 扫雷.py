@@ -197,4 +197,4 @@ if __name__ =="__main__":
     cout_label.place(x=18,y=17,height=27,width=27)
     game_core()
     time_counter(time_label)
-    root.mainloop()#监控组件，组件发生变化或触发事件时，更新窗口
+    root.mainloop()
